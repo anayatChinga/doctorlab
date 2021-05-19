@@ -1,0 +1,270 @@
+body {
+	background-image: url('../images/service-bg.png');
+	width: 1200px
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 0px;
+	font-family: futura md bt;
+}
+
+.container {
+	margin: auto;
+	width: 1265px;
+}
+
+.header {
+	background-color: #069ecf;
+	height: 40px;
+}
+
+.headericon {
+	text-align: right;
+	color: #fff;
+	font-size: 18px;
+	padding: 10px;
+	word-spacing: 30px;
+	margin-right: 20px;
+}
+
+#logo {
+	width: 150px;
+	margin-left: 20px;
+}
+
+.navbar {
+	background-color: #fff;
+	height: 80px;
+}
+
+.navbar ul {
+	float: right;
+}
+
+.navbar ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.navbar ul li a {
+	text-decoration: none;
+	color: #000;
+	margin-right: 20px;
+}
+
+.navbar ul li a:hover {
+	color: #069ecf;
+}
+
+.slider {
+	height: 500px;
+	position: relative;
+}
+
+.slider h1 {
+	position: absolute;
+	padding-top: 120px;
+	font-size: 75px;
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
+}
+
+.btnlearn {
+	position: absolute;
+	font-family: futura bk bt;
+	color: #fff;
+	font-size: 22px;
+	width: 250px;
+	height: 60px;
+	bottom: 120px;
+	left: 500px;
+	border: 1px solid #069ecf;
+	border-radius: 8px;
+	background-color: #069ecf;
+}
+
+#slider1 {
+	width: 1265px;
+	height: 500px;
+}
+
+.about-container {
+	background-color: #fff;
+	height: 400px;
+}
+
+#about h2 {
+	font-size: 32px;
+	color: #069ecf;
+	text-align: center;
+	margin: 0px;
+	padding: 80px 20px 20px ;
+}
+
+#about p {
+	display: inline-block;
+	font-size: 16px;
+	text-align: justify;
+	text-align-last: center;
+	padding: 30px 120px 120px;
+}
+
+.service-container {
+	background-color: transparent;
+	height: 500px;
+}
+
+.services h2 {
+	font-size: 32px;
+	color: #000;
+	text-align: center;
+	margin: 0px;
+	padding-top: 80px;
+}
+
+#services {
+	display: inline-block;
+	font-size: 14px;
+	text-align: justify;
+	text-align-last: center;
+	width: 340px;
+	padding: 35px;
+	color: #fff;
+}
+
+#icon {
+	font-size: 55px;
+	color: #000;
+}
+
+.partners {
+	background-color: #fff;
+	height: 250px;
+}
+
+.partners h1 {
+	color: #069ecf;
+	text-align: center;
+	padding-top: 60px;
+}
+
+.partners ul li {
+	list-style: none;
+	display: inline-block;
+	font-size: 22px;
+	color: #069ecf;
+	padding: 40px;
+	margin-left: 40px;
+}
+
+.gallary-container {
+	background-color: #069ecf;
+	height: 800px;
+}
+
+#item {
+	display: inline-block;
+	height: 250px;
+	width: 250px;
+	border: 2px solid #fff;
+	border-radius: 50%;
+	padding: 10px;
+	margin: 20px;
+}
+
+#item {
+	margin-left: 80px;
+}
+
+.item {
+	padding: 30px;
+}
+
+.item h2 {
+	font-size: 32px;
+	color: #fff;
+	text-align: center;
+}
+
+.client-container {
+	background-image: url('../images/client.png');
+	height: 350px;
+}
+
+.client h2 {
+	margin: 0px;
+	color: #000;
+	text-align: center;
+	font-size: 28px;
+	padding-top: 120px;
+}
+
+.client span {
+	display: inline-block;
+	font-size: 14px;
+	text-align: justify;
+	text-align-last: center;
+	color: #000;
+	padding: 40px 140px 140px;
+	margin-bottom: 80px;
+}
+
+.contact-container {
+	background-color: #069ecf;
+	height: 850px;
+	position: relative;
+}
+
+
+.form {
+	display: inline-block;
+	font-size: 20px;
+	color: #fff;
+	padding-left: 200px;
+	padding-top: 40px;
+}
+
+h1 {
+	margin: 0px;
+	padding-top: 40px;
+	text-align: center;
+	color: #fff;
+}
+.form input {
+	border-width: 1px;
+	border-radius: 8px;
+	width: 850px;
+	height: 50px;
+	text-align: center;
+	font-family: futura bk bt;
+	font-size: 18px;
+	letter-spacing: 3px;
+}
+
+.btnsubmit {
+	position: absolute;
+	border-width: 1px;
+	border-radius: 8px;
+	width: 200px;
+	height: 50px;
+	font-family: Futura bk bt;
+	font-size: 18px;
+	font-weight: bold;
+	color: #069ecf;
+	left: 550px;
+	bottom: 40px;
+}
+
+.copyright-container {
+	background-color: #fff;
+	height: 40px;
+}
+
+.icon {
+	text-align: center;
+	color: #069ecf;
+	font-size: 14px;
+	padding: 10px;
+}
